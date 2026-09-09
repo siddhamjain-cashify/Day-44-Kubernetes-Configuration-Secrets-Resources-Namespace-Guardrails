@@ -1,0 +1,1 @@
+# Day-44-Kubernetes-Configuration-Secrets-Resources-Namespace-Guardrails
